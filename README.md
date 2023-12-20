@@ -1,3 +1,5 @@
+## Site Semana de Engenharia da Computação - SECOMP
+
 Site desenvolvido com a finalidade de utilização para IV Semana Acadêmica de Engenharia de Computação e I Semana de Ciência e Tecnologia.
 
 A mesma será ofertada para a comunidade interna e externa com a finalidade de introduzir os mesmos ao mundo da tecnológia através de mini-cursos e palestras.
